@@ -2,13 +2,6 @@
 
 É uma aplicação integrada com github utilizando ReactJS. Este trabalho foi desenvolvido utilizando os conhecimentos adquiridos ao longo do projeto "Criando um front-end totalmente componentizado na prática com ReactJS" da Digital Innovation One.
 
-Links:
-https://web.dio.me/project/criando-um-front-end-totalmente-componentizado-na-pratica-com-reactjs/learning/00fbaa4a-f81c-4a9d-9005-8fbab6db02e2?back=/track/localizalabs-react-developer
-
-https://github.com/benits/github-api-interface
-
-https://www.youtube.com/playlist?list=PLTv2Rbwcr_Cru7KIHcffE1Shg9X9Eix7a
-
 ✨ Tecnologias utilizadas
 
 * React 17.0.2
@@ -55,6 +48,15 @@ Ele agrupa corretamente o React no modo de produção e otimiza a compilação p
 
 A compilação é reduzida e os nomes dos arquivos incluem os hashes.\
 Seu aplicativo está pronto para ser implantado!
+
+
+Links:
+https://web.dio.me/project/criando-um-front-end-totalmente-componentizado-na-pratica-com-reactjs/learning/00fbaa4a-f81c-4a9d-9005-8fbab6db02e2?back=/track/localizalabs-react-developer
+
+https://github.com/benits/github-api-interface
+
+https://www.youtube.com/playlist?list=PLTv2Rbwcr_Cru7KIHcffE1Shg9X9Eix7a
+
 
 # ✨ Telas do site web
 
